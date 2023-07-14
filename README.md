@@ -1,21 +1,23 @@
 # Frontend Monogram
 
-### Desktop View
+This is the frontend code for the Monogram website.
 
-![](images/desktop-view.png)
+## Desktop View
 
-### Real Site
+![Desktop View](images/desktop-view.png)
+
+## Real Site
 [Monogram](https://monogramcc.com/shop/)
 
 ## Live Preview
 
+You can see a live preview of the website [here](https://vikaspdsp.github.io/Geeks_Monogram/).
 
+## Links
 
-### Links:
+- Code: [index.html](https://github.com/vikaspdsp/Geeks_Monogram/blob/main/index.html)
 
+## Built with
 
-* Code: https://github.com/vikaspdsp/Geeks_Monogram/blob/main/index.html
-
-### Built with
-* HTML
-* CSS
+- HTML
+- CSS
