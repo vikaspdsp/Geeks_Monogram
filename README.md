@@ -16,7 +16,7 @@ You can see a live preview of the website [here](https://vikaspdsp.github.io/Gee
 ## Links
 
 - Code: [index.html](https://github.com/vikaspdsp/Geeks_Monogram/blob/main/index.html)
-- Code: [index.css]https://github.com/vikaspdsp/Geeks_Monogram/blob/main/index.css
+- Code: [index.css](https://github.com/vikaspdsp/Geeks_Monogram/blob/main/index.css)
 
 ## Built with
 
