@@ -1,6 +1,6 @@
 # Frontend Monogram
 
-This is the frontend code for the Monogram website.
+This is the front-end code for the Monogram website.
 
 ## Desktop View
 
@@ -16,6 +16,7 @@ You can see a live preview of the website [here](https://vikaspdsp.github.io/Gee
 ## Links
 
 - Code: [index.html](https://github.com/vikaspdsp/Geeks_Monogram/blob/main/index.html)
+- Code: [index.css]https://github.com/vikaspdsp/Geeks_Monogram/blob/main/index.css
 
 ## Built with
 
